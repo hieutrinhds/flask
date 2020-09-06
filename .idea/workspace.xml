@@ -23,20 +23,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d88e6863-55f4-4a02-b895-c400453f2cec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Question_and_Answer/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Question_and_Answer/schemma.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/static/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/static/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/templates/answer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/templates/ask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/templates/question.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/templates/unanswered.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/2/templates/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/questions.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/static/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/static/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/answer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/ask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/question.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/show_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/unanswered.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/users.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/answer.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/answer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/ask.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/ask.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/base.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/question.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/question.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/show_links.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/unanswered.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/unanswered.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/origin" beforeDir="false" afterPath="$PROJECT_DIR$/origin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +102,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -157,7 +184,7 @@
       <workItem from="1599042498482" duration="12324000" />
       <workItem from="1599104838308" duration="1779000" />
       <workItem from="1599396202111" duration="966000" />
-      <workItem from="1599406546256" duration="4988000" />
+      <workItem from="1599406546256" duration="8458000" />
     </task>
     <servers />
   </component>
@@ -177,6 +204,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/The-Ultimate-Flask-Course" />
     </ignored-roots>
