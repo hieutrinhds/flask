@@ -54,6 +54,7 @@
       <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/users.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/questions.db" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/questions.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/answer.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/answer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/ask.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/ask.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/home.html" afterDir="false" />
@@ -184,7 +185,7 @@
       <workItem from="1599042498482" duration="12324000" />
       <workItem from="1599104838308" duration="1779000" />
       <workItem from="1599396202111" duration="966000" />
-      <workItem from="1599406546256" duration="8458000" />
+      <workItem from="1599406546256" duration="13228000" />
     </task>
     <servers />
   </component>
@@ -239,10 +240,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599407078460" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599407454442">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599417798581">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599407454442" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599417798581" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ultimate_flask$app.coverage" NAME="app Coverage Results" MODIFIED="1599407097623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Question_and_Answer" />
