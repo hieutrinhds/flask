@@ -54,15 +54,8 @@
       <change afterPath="$PROJECT_DIR$/origin/Section 05/23/templates/users.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/questions.db" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/questions.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/answer.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/answer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/ask.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/ask.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/question.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/question.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/unanswered.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/unanswered.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Question_and_Answer/templates/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/03_Question_and_Answer/templates/users.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/origin" beforeDir="false" afterPath="$PROJECT_DIR$/origin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,7 +178,8 @@
       <workItem from="1599042498482" duration="12324000" />
       <workItem from="1599104838308" duration="1779000" />
       <workItem from="1599396202111" duration="966000" />
-      <workItem from="1599406546256" duration="13228000" />
+      <workItem from="1599406546256" duration="13291000" />
+      <workItem from="1599541158879" duration="5028000" />
     </task>
     <servers />
   </component>
@@ -220,22 +214,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599406852388" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1599407263704">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1599422278593">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599407263704" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1599407263704">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599422278593" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1599422278593">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599407263704" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1599407263704">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599422278593" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1599422278589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599407263704" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1599407263704">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599422278589" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1599422278593">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599407263704" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599422278593" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1599407078460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

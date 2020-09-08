@@ -24,11 +24,12 @@ def get_current_user():
 
 @app.route('/')
 def index():
-    '''user = None
-    if 'user' in session:
-        user = session['user']
-    '''
     user = get_current_user()
+    db = get_db()
+
+    questions_cur = db.execute('''select id, question_text from questions 
+    join users on userd.id = questions.asked_by_id 
+    join users on user.id = questions.expert_id''')
     return render_template('home.html', user=user)
 
 @app.route('/register', methods=['GET','POST'])
@@ -73,15 +74,23 @@ def question():
 
     return render_template('question.html')
 
-@app.route('/answer')
-def answer():
+@app.route('/answer/<question_id>', methods=['GET', 'POST'])
+def answer(question_id):
     user = get_current_user()
+    db = get_db()
+    if request.method == "POST":
+        db.execute('update questions set answer_text = ? where id = ?', [request.form['answer'], question_id])
+        db.commit()
+        return redirect(url_for('unanswered'))
+    question_cur = db.execute('select id, question_text from questions where id = ?', [question_id])
+    question = question_cur.fetchone()
 
-    return render_template('answer.html')
+    return render_template('answer.html', user=user, question=question)
 
 @app.route('/ask', methods=['GET', 'POST'])
 def ask():
     user = get_current_user()
+
     db = get_db()
     if request.method == 'POST':
         question_text = request.form['question']
